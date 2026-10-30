@@ -3,3 +3,6 @@ uvicorn
 python-dotenv
 groq==0.12.0
 httpx==0.27.2
+chromadb==1.0.15
+sentence-transformers
+pypdf

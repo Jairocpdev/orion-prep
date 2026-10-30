@@ -1,0 +1,8 @@
+__pycache__
+.git
+.gitignore
+venv
+.env
+chroma_db/
+.huggingface/
+*.pyc
